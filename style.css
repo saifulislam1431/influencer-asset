@@ -34,5 +34,52 @@ body{
 
 .title{
     color: #3A3A3A;
-    font-weight: 750;
+    font-weight: 700;
+}
+
+/* Banner section */
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 100px; */
+    padding: 0 180px;
+}
+
+.banner-details{
+    margin-left: 150px;
+    
+}
+.section-title{
+    font-size: 50px;
+    margin-right: 300px;
+    color: #3A3A3A;
+    margin-bottom: 20px;
+}
+.section-description{
+    color: #3A3A3A;
+    padding-right: 100px;
+    margin-bottom: 20px;
+    font-weight: 450;
+}
+.btn-primary{
+    padding: 10px 15px;
+    font-size: 18px;
+    align-items: center;
+    font-weight: 500;
+    border: none;
+    border-radius: 30px;
+    background-color: #E02C6D;
+    color: #FFFFFF;
+}
+
+.banner-imgs{
+    margin-right: 100px;
+    
+    
+}
+.banner-img{
+    margin-top: 50px;
+    width: 400px;
 }
