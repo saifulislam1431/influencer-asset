@@ -331,7 +331,7 @@ i{
 
     #featured-products{
        flex-direction: column-reverse;
-        gap: 30px;
+        gap: 50px;
         margin: 50px auto;
         padding: 0 10px;
         text-align: center;
