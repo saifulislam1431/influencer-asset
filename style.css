@@ -247,6 +247,8 @@ i{
 
 @media screen and (max-width:688px) {
 
+    /* NavBar */
+
     .nav-bar{
         flex-direction: column;
     }
@@ -254,6 +256,8 @@ i{
         flex-direction: column;
         text-align: center;
     }
+
+    /* Banner */
     .banner{
         flex-direction: column-reverse;
         padding: 0 10px;
@@ -283,6 +287,8 @@ i{
         
     }
 
+    /* E-commerce logos */
+
     #e-com-logos{
         width: 100vw;
        margin-top: 50px;
@@ -299,6 +305,8 @@ i{
     hr{
        display: none;
     }
+
+    /* Popular collection */
 
     #popular-collection{
         margin-top: 100px;
@@ -318,6 +326,8 @@ i{
        margin-right: 10%;
       
     }
+
+    /* Featured products */
 
     #featured-products{
        flex-direction: column-reverse;
